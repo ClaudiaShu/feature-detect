@@ -1,0 +1,1 @@
+img_name = '1_left.png'
